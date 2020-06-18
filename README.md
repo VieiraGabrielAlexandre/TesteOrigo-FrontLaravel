@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+### Execute está etapa para contruir o front
+```
+npm install --save bootstrap-vue
+```
 
 ### Compiles and minifies for production
 ```
